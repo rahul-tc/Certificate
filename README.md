@@ -1,2 +1,2 @@
 # Certificate
-#All the certifiacte acquired are visible i this repository.
+All the certifiacte acquired are visible i this repository.
